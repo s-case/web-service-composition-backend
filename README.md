@@ -1,5 +1,5 @@
 # Web-Service-Composition-Server
-his is the API of the Web-Service-Composition Server created as part of the EU-funded project [S-CASE](http://www.scasefp7.eu/).
+Τhis is the API of the Web-Service-Composition Server created as part of the EU-funded project [S-CASE](http://www.scasefp7.eu/).
 This page serves as usage instructions for the RESTful Web-Service-Composition web service.
 
 ## Media Types
