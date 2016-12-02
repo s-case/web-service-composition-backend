@@ -21,7 +21,8 @@ import com.sun.jersey.multipart.FormDataParam;
 
 @Path("/file")
 public class UploadFileService {
-	static String tomcatWebAppsPath = "/home/ubuntu/apache-tomcat-8.0.30/webapps/";
+	//static String tomcatWebAppsPath = "/home/ubuntu/apache-tomcat-8.0.30/webapps/";
+	static String tomcatWebAppsPath = "/opt/tomcat/webapps/";
 
 	@GET
 	@Path("/{fileName}")
